@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Tailwind CSS Vue Example
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A waterfall cards displaying example used for team knowledge sharing, which is based on Tailwind CSS & Vue3 & Comments of ⌈晴天⌋ on Netease Cloud Music.
 
-## Recommended IDE Setup
+The look:
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+![](https://lc-gluttony.s3.amazonaws.com/n06TKNQNbYo8/8UtElQu7TazjizIkoo1rrCttfOWnrcdn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221103092049.png)
+
+
